@@ -1,8 +1,9 @@
 Electric Car Market Analysis – USA
 Built a Power BI dashboard analyzing electric vehicle adoption and trends across the United States.
 * Tools: Power BI, Excel, DAX
-  LinkedIn : 
+  LinkedIn : <br>
 https://www.linkedin.com/in/mamoneweimer/
+<br>
 https://youtu.be/jWX_F8D3ulM
 - Visualized EV registration growth by state and year
 - Analyzed charging station distribution and manufacturer market share
