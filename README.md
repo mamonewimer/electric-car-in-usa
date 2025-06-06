@@ -5,6 +5,7 @@ Built a Power BI dashboard analyzing electric vehicle adoption and trends across
 https://www.linkedin.com/in/mamoneweimer/
 <br>
 https://youtu.be/jWX_F8D3ulM
+<br>
 - Visualized EV registration growth by state and year
 - Analyzed charging station distribution and manufacturer market share
 - Tracked government incentives and policy impact on EV adoption
